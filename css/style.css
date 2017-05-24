@@ -1,0 +1,42 @@
+body {
+	background-color: lightgreen;
+}
+
+.wrap_out {
+	border: 1px solid black;
+	background-color: lightblue;
+	color: white;
+	font-family: Garamond, Times, serif;
+	margin: 20px auto;
+	width: 50%;
+}
+
+.wrap_in header {
+	text-align: center;
+	margin: 0 40px 10px 40px;
+}
+
+.wrap_in header h1 {
+	margin-bottom: 0;
+}
+
+.wrap_in header p {
+	border-bottom: 1px dotted white;
+	margin-top: 0;
+	padding-bottom: 10px;
+}
+
+.wrap_in main ul li {
+	list-style: none;
+}
+
+.wrap_in main ul li button {
+	background-color: darkorange;
+	margin-top: 10px;
+}
+
+.wrap_in footer p {
+	text-align: center;
+	margin: 5px;
+	margin-bottom: 10px;
+}
