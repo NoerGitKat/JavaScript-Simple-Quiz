@@ -5,7 +5,7 @@ body {
 .wrap_out {
 	border: 1px solid black;
 	background-color: lightblue;
-	color: white;
+	color: black;
 	font-family: Garamond, Times, serif;
 	margin: 20px auto;
 	width: 50%;
@@ -26,13 +26,16 @@ body {
 	padding-bottom: 10px;
 }
 
-.wrap_in main ul li {
-	list-style: none;
+.wrap_in main form {
+	margin-left: 20px;
 }
 
-.wrap_in main ul li button {
-	background-color: darkorange;
-	margin-top: 10px;
+.wrap_in main form h3 {
+}
+
+.wrap_in main form #submit_button {
+	margin: 20px 0 10px 5px;
+	background-color: orange;
 }
 
 .wrap_in footer p {
