@@ -1,0 +1,1 @@
+This is a simple quiz made with HTML, CSS and JS. The user has to answer five basic questions on the JavaScript language, and after submitting the answers receives feedback on how many questions were answered correctly. No frameworks or libraries involved.
